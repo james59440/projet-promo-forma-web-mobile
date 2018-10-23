@@ -6,14 +6,12 @@ body{
 
 }
 
-h1{
-    text-align: center;
 
-}
 
-h2{
+#acceuil h2{
     text-align: center;
     font-size: 3vw;
+    margin-bottom: 3%;
 }
 
 header{
@@ -90,9 +88,7 @@ footer {
 }
 
 
-#acceuil h2{
-    margin-bottom: 3%;
-}
+
 
 #acceuil p{
     font-size: 1.4vw;
@@ -104,5 +100,9 @@ footer {
 
 #acceuil aside{
     margin-top:5%;
+}
+
+#pres{
+    margin-top: 2%;
 }
 
