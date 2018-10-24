@@ -14,6 +14,16 @@ body{
 
 
 
+
+#acceuil h2{
+    text-align: center;
+    font-size: 3vw;
+    margin-bottom: 3%;
+}
+
+header{
+    position: fixed;
+
 h1{
 
     text-align: center;
@@ -34,10 +44,6 @@ h2{
 
 
 
-header{
-
-    position: fixed;
-
     margin-top: 15px;
 
     height: 80px;
@@ -47,7 +53,12 @@ header{
 
     margin-bottom: 5%;
 
+<<<<<<< HEAD
 >>>>>>> d67e663214aaa3f89a23ee0731b3ae54f5e60788
+=======
+
+
+>>>>>>> 362b004946a902b1bb2007d04e90c3c2af9f3685
 }
 
 
@@ -74,8 +85,10 @@ a{
 <<<<<<< HEAD
 =======
 
+
 }
 >>>>>>> d67e663214aaa3f89a23ee0731b3ae54f5e60788
+
 
 
 
@@ -112,7 +125,11 @@ footer {
     color: white;
 
     font-size: 18px;
+<<<<<<< HEAD
     margin-top: 5%;
+=======
+    margin-top: 10%;
+>>>>>>> 362b004946a902b1bb2007d04e90c3c2af9f3685
 
     margin-top: 10%;
 
@@ -205,49 +222,131 @@ input, textarea {
 }
 =======
 
-
 .blue{
-
     background-color: #007bff;
-
     color: white;
 
-}
-
-
-
-
-
-#acceuil h2{
-
-    margin-bottom: 3%;
 
 }
+
+
 
 
 
 #acceuil p{
-
     font-size: 1.4vw;
-
 }
-
 #acceuil span{
-
     font-size: 1.4vw;
-
     margin-left:  3%;
-
 }
-
-
 
 #acceuil aside{
-
     margin-top:5%;
+}
 
+#pres{
+    margin-top: 2%;
+}
+
+<<<<<<< HEAD
+span{
+    font-size: 15px;
 }
 
 
 
+
+
+#personne2{
+    position: relative;
+    bottom: 25px;
+    left: 15em;
+}
+#personne3{
+    position: relative;
+    bottom: 50px;
+    left: 30em;
+=======
+#stat{
+    background-color: #ff9a45;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+h5{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+>>>>>>> 112d6dc73a76dbef9262e1fb7de7624f67f2b2bc
+
+}
+#personne4{
+    position: relative;
+    bottom: 4.4em;
+    left: 44em;
+
+}
+#personne5{
+    position: relative;
+    left: 7em;
+
+}
+#personne6{
+    position: relative;
+    bottom:1.4em;
+    left: 23em;
+
+}
+#personne7{
+    position: relative;
+    bottom:2.9em;
+    left: 36em;
+
+}
+#personne8{
+    position: relative;
+    bottom: 4.5em;
+    left: 50em;
+}
+#personne9{
+    position: relative;
+    left:  7em;
+
+<<<<<<< HEAD
 >>>>>>> d67e663214aaa3f89a23ee0731b3ae54f5e60788
+=======
+}
+#personne10{
+    position: relative;
+    bottom: 1.4em;
+    left: 21em;
+}
+#personne11{
+    position: relative;
+    bottom: 2.9em;
+    left: 36em;
+}
+#personne12{
+    position: relative;
+    bottom: 4.5em;
+    left: 50em;
+}
+#personne13{
+    position: relative;
+    left: 7em;
+}
+#personne14{
+    position: relative;
+    bottom: 1.4em;
+    left: 21em;
+}
+#personne15{
+    position: relative;
+    bottom: 2.9em;
+    left: 36em;
+}
+>>>>>>> 362b004946a902b1bb2007d04e90c3c2af9f3685
