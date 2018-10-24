@@ -1,18 +1,22 @@
 
+#personne1{
+    position: relative;
+    left: 7em;
+}
 #personne2{
     position: relative;
     bottom: 25px;
-    left: 15em;
+    left: 19em;
 }
 #personne3{
     position: relative;
     bottom: 50px;
-    left: 30em;
+    left: 35em;
 }
 #personne4{
     position: relative;
     bottom: 4.4em;
-    left: 44em;
+    left: 49em;
 
 }
 #personne5{
@@ -78,7 +82,7 @@
 }
 #personne17{
     position: relative;
-    left:7em;
+    left: 7em;
 }
 #personne18{
     position: relative;
@@ -94,4 +98,19 @@
     position: relative;
     bottom: 4.5em;
     left: 50em;
+}
+#personne21{
+    position: relative;
+    left: 25em;
+}
+
+.bb{
+    color: white;
+    background-color: #007bff;
+    height: 96px;
+}
+#nomdu21{
+    position: relative;
+    left: 27em;
+
 }
