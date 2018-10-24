@@ -1,2 +1,31 @@
-.logos{
+.center{
     text-align: center;
+
+
+}
+.sec{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+    background-color: #007bff;
+
+
+}
+
+.sec1{
+    margin-left: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.text{
+    color: white;
+
+}
+
