@@ -1,0 +1,37 @@
+#acceuil h2 {
+    text-align: center;
+    font-size: 3vw;
+    margin-bottom: 3%;
+}
+
+#acceuil p{
+    font-size: 1.4vw;
+}
+#acceuil span{
+    font-size: 1.4vw;
+    margin-left:  3%;
+}
+
+#acceuil aside{
+    margin-top:5%;
+}
+
+#pres{
+    margin-top: 2%;
+}
+
+#acceuil span{
+    font-size: 1.4vw;
+}
+
+#stat{
+    background-color: #ff9a45;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.blue {
+    background-color: #007bff;
+    color: white;
+}
