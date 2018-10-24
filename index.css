@@ -81,11 +81,11 @@ footer {
 
     position: relative;
 
-    right: 2em;
+    right: 2%;
 
-    top: 4.5em;
+    margin-top: 100px;
 
-    height: 150px;
+
 
 
 
@@ -93,6 +93,7 @@ footer {
 
 #image-facebook{
 
+    width: 10%;
     position: relative;
 
     left:41%;
@@ -103,13 +104,29 @@ footer {
 
 }
 
+
+#image-github{
+    width: 8.5%;
+    position: relative;
+
+    left: 44%;
+
+    margin-bottom: 16px;
+
+}
+
+
 #nous{
 
     position: relative;
 
     left: 42%;
 
+    font-size: 1vw;
+
     display: block;
+
+    width: 20%;
 
     background-color: white;
     color: black;
@@ -122,15 +139,7 @@ footer {
 
 
 
-#image-github{
 
-    position: relative;
-
-    left: 44%;
-
-    margin-bottom: 16px;
-
-}
 
 
 
