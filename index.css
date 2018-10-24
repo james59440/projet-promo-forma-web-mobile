@@ -212,5 +212,79 @@ footer {
 
 }
 
+span{
+    font-size: 15px;
+}
 
 
+
+
+
+#personne2{
+    position: relative;
+    bottom: 25px;
+    left: 15em;
+}
+#personne3{
+    position: relative;
+    bottom: 50px;
+    left: 30em;
+
+}
+#personne4{
+    position: relative;
+    bottom: 4.4em;
+    left: 44em;
+
+}
+#personne5{
+    position: relative;
+    left: 7em;
+
+}
+#personne6{
+    position: relative;
+    bottom:1.4em;
+    left: 23em;
+
+}
+#personne7{
+    position: relative;
+    bottom:2.9em;
+    left: 36em;
+
+}
+#personne8{
+    position: relative;
+    bottom: 4.5em;
+    left: 50em;
+}
+#personne9{
+    position: relative;
+    left:  7em;
+
+}
+#personne10{
+    position: relative;
+    bottom: 1.4em;
+    left: 21em;
+}
+#personne11{
+    position: relative;
+    bottom: 2.9em;
+    left: 36em;
+}
+#personne12{
+    position: relative;
+    bottom: 4.5em;
+    left: 50em;
+}
+#personne13{
+    position: relative;
+    left: 7em;
+}
+#personne14{
+    position: relative;
+    bottom: 1.4em;
+    left: 21em;
+}
