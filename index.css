@@ -1,78 +1,182 @@
 body{
 
-   width: 80%;
+
+
+    width: 80%;
+
     margin: auto;
 
 
+
+
+
 }
 
 
-header{position: fixed;
+
+h1{
+
+    text-align: center;
+
+
+
+}
+
+
+
+h2{
+
+    text-align: center;
+
+    font-size: 3vw;
+
+}
+
+
+
+header{
+
+    position: fixed;
+
     margin-top: 15px;
+
     height: 80px;
+<<<<<<< HEAD
     margin-bottom: 5%;
+=======
+
+    margin-bottom: 5%;
+
+>>>>>>> d67e663214aaa3f89a23ee0731b3ae54f5e60788
 }
+
+
 
 nav{
+
     padding-top:1.5%;
+
 }
+
+
 
 a{
+
     margin-top: 15px;
-   text-decoration: none;
+
+    text-decoration: none;
+
     color: black;
+
     font-size: 1.4vw;
 
+
+<<<<<<< HEAD
+=======
+
 }
+>>>>>>> d67e663214aaa3f89a23ee0731b3ae54f5e60788
+
+
+
+
+
 
 
 #contacter p{
+
     text-align: center;
+
 }
+
+
 
 #copyright{
+
     text-align: center;
+
 }
+
 #promo1{
+
     text-align: center;
+
 }
+
 footer {
 
+
+
     background-color: #007bff;
+
     color: white;
+
     font-size: 18px;
     margin-top: 5%;
 
+    margin-top: 10%;
+
+
+
 }
+
+
 
 #face{
+
     position: relative;
+
     right: 2em;
+
     top: 4.5em;
+
     height: 150px;
 
+
+
 }
+
 #image-facebook{
+
     position: relative;
+
     left:41%;
+
     margin-bottom: 16px;
 
+
+
 }
+
 #nous{
+
     position: relative;
+
     left: 42%;
+
     display: block;
+
     background-color: white;
+
     margin-bottom: 16px;
 
+
+
 }
+
+
 
 #image-github{
+
     position: relative;
+
     left: 44%;
+
     margin-bottom: 16px;
+
 }
 
+<<<<<<< HEAD
 form {
     /* Uniquement centrer le formulaire sur la page */
     text-align: center;
@@ -99,3 +203,51 @@ input, textarea {
 .logos{
     text-align: center;
 }
+=======
+
+
+.blue{
+
+    background-color: #007bff;
+
+    color: white;
+
+}
+
+
+
+
+
+#acceuil h2{
+
+    margin-bottom: 3%;
+
+}
+
+
+
+#acceuil p{
+
+    font-size: 1.4vw;
+
+}
+
+#acceuil span{
+
+    font-size: 1.4vw;
+
+    margin-left:  3%;
+
+}
+
+
+
+#acceuil aside{
+
+    margin-top:5%;
+
+}
+
+
+
+>>>>>>> d67e663214aaa3f89a23ee0731b3ae54f5e60788
