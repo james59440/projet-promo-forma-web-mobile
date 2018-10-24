@@ -1,0 +1,23 @@
+form {
+    /* Uniquement centrer le formulaire sur la page */
+    text-align: center;
+    margin: 5% auto;
+    width: 55%;
+}
+
+input, textarea {
+
+
+    /* Pour que tous les champs texte aient la même dimension */
+    width: 50%;
+    box-sizing: border-box;
+    margin-bottom: 2%;
+
+}
+
+#textform{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 2vw;
+}
+
