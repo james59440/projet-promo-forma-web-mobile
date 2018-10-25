@@ -17,6 +17,9 @@ header {
 nav{
 
     padding-top:1.5%;
+    text-align: right;
+
+
 
 }
 
@@ -81,11 +84,11 @@ footer {
 
     position: relative;
 
-    right: 2em;
+    right: 2%;
 
-    top: 4.5em;
+    margin-top: 100px;
 
-    height: 150px;
+
 
 
 
@@ -93,23 +96,43 @@ footer {
 
 #image-facebook{
 
+
     position: relative;
 
-    left:41%;
+    left:42%;
 
     margin-bottom: 16px;
+    width: 6%;
 
 
 
 }
 
+
+#image-github{
+
+    position: relative;
+
+    left: 45%;
+
+    margin-bottom: 16px;
+    width: 6%;
+
+}
+
+
 #nous{
 
     position: relative;
 
-    left: 42%;
+   left: 40%;
+
+
+    font-size: 1vw;
 
     display: block;
+
+    width: 20%;
 
     background-color: white;
     color: black;
@@ -122,15 +145,7 @@ footer {
 
 
 
-#image-github{
 
-    position: relative;
-
-    left: 44%;
-
-    margin-bottom: 16px;
-
-}
 
 
 
@@ -142,11 +157,12 @@ footer {
 
 h5{
     text-align: center;
+    font-size: 1vw;
 }
 h6{
     text-align: center;
+    font-size: 1vw;
 }
-
 
 
 
