@@ -34,10 +34,9 @@ a{
 
     font-size: 1.4vw;
 
-
-
-
-
+}
+a:link{
+    text-decoration: none;
 }
 
 
@@ -99,7 +98,7 @@ footer {
 
     position: relative;
 
-    left:42%;
+    left:47%;
 
     margin-bottom: 16px;
     width: 6%;
@@ -109,16 +108,7 @@ footer {
 }
 
 
-#image-github{
 
-    position: relative;
-
-    left: 45%;
-
-    margin-bottom: 16px;
-    width: 6%;
-
-}
 
 
 #nous{
